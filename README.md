@@ -17,19 +17,6 @@ The SQL queries used to clean the data and answer various business questions for
 
 An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
 
-# Data Structure & Initial Checks
-The company’s database (cleaned to churn_clean) consists of one main customer table with 7,043 records. A description of each column is as follows:
-
-**• Table 1:**
-
-**• Table 2:**
-
-**• Table 3:**
-
-**• Table 4:**
-
-[Entity Relationship Diagram here]
-
 # Executive Summary
 ### Overview of Findings
 

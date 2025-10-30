@@ -13,7 +13,7 @@ Insights and recommendations are provided on the following key areas:
 
 **• Finances:** monthly charges, total revenue lost from churn
 
-The SQL queries used to clean the data and answer various business questions for this analysis can be found [here](https://github.com/jackieclayton1/customer-churn-analysis/blob/main/churn_sql_queries).
+The SQL queries used to clean the data and answer various business questions for this analysis can be found [here](https://github.com/jackieclayton1/customer-churn-analysis/blob/main/churn_queries.sql).
 
 # Executive Summary
 ### Overview of Findings

@@ -33,6 +33,7 @@ This analysis revealed three key takeaways for leadership:
 ![alt_text](images/Screenshot%202025-10-28%20211133.png)
 **• Seniors Exhibit a Significantly Higher Churn Rate.** Analysis of the customer base shows that senior citizens, defined as aged 65 or older, have a churn rate of 41.68%. This is notably higher than the 23.61% churn rate observed among non-senior customers. This indicates that seniors are a high-risk demographic for churn.
 
+![alt_text](images/Screenshot%202025-10-29%20221640.png)
 **• Churn Rates Are Nearly Identical Across Genders.** The analysis reveals no significant difference in churn behavior between genders. Male customers have a churn rate of 26.16%, while female customers have a churn rate of 26.91%. The minimal variance suggests that gender is not a contributing factor to customer churn.
 
 ### Account Details:
@@ -43,6 +44,7 @@ This analysis revealed three key takeaways for leadership:
 **• Customer Loyalty Solidifies After Two Years, Drastically Reducing Churn.** Customer tenure is a powerful factor in predicting churn. New customers, those with a tenure of less than one year, have the highest churn rate at 47.37%. The rate remains high for customers in the 1-2 year bracket (29.74%). However, a significant drop occurs after the two-year mark, with churn rates falling to 16.98% for the 2-3 year group and continuing to decline as tenure increases.
 
 ### Services:
+![alt_text](images/Screenshot%202025-10-29%20221651.png)
 **• Fiber Optic Customers Churn at Double the Rate of DSL Customers.** While Fiber Optic is a premium service, it is associated with a much higher churn rate of 41.89%. In comparison, customers with DSL service are significantly more loyal, with a churn rate of only 18.96%. This disparity could indicate issues with the Fiber Optic service's price, reliability, or customer support.
 
 ![alt_text](images/Screenshot%202025-10-29%20213445.png)

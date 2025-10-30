@@ -30,7 +30,7 @@ This analysis revealed three key takeaways for leadership:
 
 # Insights Deep Dive
 ### Demographics:
-[!(images/Screenshot 2025-10-28 211133.png)](https://github.com/jackieclayton1/customer-churn-analysis/blob/main/images/Screenshot%202025-10-28%20211133.png)
+![Alt text](images/Screenshot%202025-10-28%20211133.png)
 **• Seniors Exhibit a Significantly Higher Churn Rate.** Analysis of the customer base shows that senior citizens, defined as aged 65 or older, have a churn rate of 41.68%. This is notably higher than the 23.61% churn rate observed among non-senior customers. This indicates that seniors are a high-risk demographic for churn.
 
 **• Churn Rates Are Nearly Identical Across Genders.** The analysis reveals no significant difference in churn behavior between genders. Male customers have a churn rate of 26.16%, while female customers have a churn rate of 26.91%. The minimal variance suggests that gender is not a contributing factor to customer churn.

@@ -3,15 +3,7 @@ As a data analyst at a telecom provider operating in the U.S. market, an in dept
 
 Key business metrics include churn rate, average tenure, monthly charges, and total revenue.
 
-Insights and recommendations are provided on the following key areas:
-
-**• Demographics**
-
-**• Account Details** 
-
-**• Add-On Services**
-
-**• Finances**
+Insights and recommendations are provided on the following key areas: demographics, account details, add-on services, and finances.
 
 The SQL queries used to clean the data and answer various business questions for this analysis can be found [here](https://github.com/jackieclayton1/customer-churn-analysis/blob/main/churn_queries.sql).
 

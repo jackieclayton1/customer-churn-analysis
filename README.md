@@ -26,7 +26,7 @@ This analysis revealed three key takeaways for leadership:
 
 **3. Revenue at risk is substantial**. Churned customers account for millions in lost charges annually, but targeted retention could reduce churn by 7-10%, saving acquisition costs.
 
-[Visualization, including a graph of overall trends or snapshot of a dashboard]
+![alt_text](images/Screenshot%202025-10-29%20224703.png)
 
 # Insights Deep Dive
 ### Demographics:
